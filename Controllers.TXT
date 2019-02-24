@@ -1,0 +1,3 @@
+Left & Right arrow keys : to move the bat
+Space key : to shoot the ball
+A & D keys: to edit the angle of projection of the ball
