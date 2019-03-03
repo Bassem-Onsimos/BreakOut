@@ -2,13 +2,6 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group>
-            <file>file:/Users/bassemonsimos/NetBeansProjects/BreakOut/src/Model/Ball.java</file>
-            <file>file:/Users/bassemonsimos/NetBeansProjects/BreakOut/src/Model/Block.java</file>
-            <file>file:/Users/bassemonsimos/NetBeansProjects/BreakOut/src/GameMenus/GameOver.java</file>
-            <file>file:/Users/bassemonsimos/NetBeansProjects/BreakOut/src/Model/Target.java</file>
-            <file>file:/Users/bassemonsimos/NetBeansProjects/BreakOut/src/Game/Controller.java</file>
-            <file>file:/Users/bassemonsimos/NetBeansProjects/BreakOut/src/Game/Game.java</file>
-        </group>
+        <group/>
     </open-files>
 </project-private>
