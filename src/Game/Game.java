@@ -29,7 +29,7 @@ public class Game extends AbstractGame {
 
     @Override
     public void initiate() {
-        setFBSlimited(true);
+        setFPSlimited(true);
         setDebugInfoDisplayed(false);
         setPausable(true);
         
